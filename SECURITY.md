@@ -151,7 +151,7 @@ Everything with a real impact on security of `VOTING Stimmunterlagen Online` –
 - Vulnerabilities related to E-Mail server configuration
 - Vulnerabilities affecting outdated browsers or platforms
 - Reports from automated web vulnerability scanners that have not been validated by hand
-- Recently disclosed 0-day vulnerabilities
+- 0-day vulnerabilities in third-party components not maintained or controlled by Abraxas, including those for which a patch has only recently become available
 - Any hypothetical flaw or best practices without exploitable POC
 - Bypassing rate-limits or the non-existence of rate-limits
 - Username / email enumeration
