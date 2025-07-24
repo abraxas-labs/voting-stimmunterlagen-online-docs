@@ -30,9 +30,10 @@ In this subfolder you can find all the [technical documentations](./technical-do
 
 |Title|Short Description|Link|
 |---|---|---|
-|VOTING Stimmunterlagen Online - Glossary| Definitions and principles of voting and elections from a technical point of view. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Glossary.pdf)
-|VOTING Stimmunterlagen Online - Building Block View.pdf| System view of the VOTING services and detailed view of VOTING Stimmunterlagen Online components. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Building_Block_View.pdf)
-|VOTING Stimmunterlagen Online - Authorization Model| Description of the permissions that apply in VOTING Stimmunterlagen Online. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Authorization_Model.pdf)
-|VOTING Stimmunterlagen Online - Authentication Model| Description of the authentication model and flows. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Authentication_Model.pdf)
-|VOTING Stimmunterlagen Online - Transport Security| Overview of the transport security between the various system components. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Transport_Security.pdf)
-|VOTING Stimmunterlagen Online - Data Model| Strucutre and relationships of data entities. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Data_Model.pdf)
+|VOTING Stimmunterlagen Online - User Manual| General user manual for the business use of VOTING Stimmunterlagen Online. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_User_Manual.pdf)|
+|VOTING Stimmunterlagen Online - Glossary| Definitions and principles of voting and elections from a technical point of view. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Glossary.pdf)|
+|VOTING Stimmunterlagen Online - Building Block View.pdf| System view of the VOTING services and detailed view of VOTING Stimmunterlagen Online components. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Building_Block_View.pdf)|
+|VOTING Stimmunterlagen Online - Authorization Model| Description of the permissions that apply in VOTING Stimmunterlagen Online. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Authorization_Model.pdf)|
+|VOTING Stimmunterlagen Online - Authentication Model| Description of the authentication model and flows. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Authentication_Model.pdf)|
+|VOTING Stimmunterlagen Online - Transport Security| Overview of the transport security between the various system components. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Transport_Security.pdf)|
+|VOTING Stimmunterlagen Online - Data Model| Strucutre and relationships of data entities. | [Link](./technical-documentations/VOTING_Stimmunterlagen_Online_Data_Model.pdf)|
