@@ -155,6 +155,8 @@ Everything with a real impact on security of `VOTING Stimmunterlagen Online` –
 - Any hypothetical flaw or best practices without exploitable POC
 - Bypassing rate-limits or the non-existence of rate-limits
 - Username / email enumeration
+- Theoretical vulnerabilities derived solely from static code analysis without a working proof of exploit on the official test environment
+- Exploits that rely on prior impersonation or unauthorized access to another user without an in-scope exploit chain
 
 ### Reward Grid
 
